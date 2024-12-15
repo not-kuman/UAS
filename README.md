@@ -12,13 +12,11 @@ Anggota 5: Muhammad Alfarisi
 
 Anggota 6: Muhammad Asyhadullah
 
-| No  | Tanggal | Nama Kegiatan | Tempat Lokasi | Anggota yang mengerjakan |
+| No  | Tanggal Mulai| Nama Kegiatan | Anggota yang mengerjakan |Tanggal Selesai |
 | --- | --- | --- | --- | --- |
-| 1   | 2/12/2024 (Selesai) | Pembuatan Kelompok | Kampus Unpam Victor | Semua Anggota |
-| 2   | 3/12/2024 (Selesai) | Pencarian Jurnal | Rumah Muhammad Alfarisi | Semua Anggota |
-| 3   | 4/12/2024 (Selesai) | Penetapan Judul | Rumah Muhammad Alfarisi | Semua Anggota |
-| 4   | 6/12/2024 (Selesai) | Pembagian Tugas Masing- Masing | Rumah Muhammad Alfarisi | Arsyad Sadewa |
-| 5   | 7/12/2024 | Pembuatan Flowchart | Rumah Masing- Masing | Bagas Prasetyo & Muhammad Alfarisi |
-| 6   | 7/12/2024 | Pembuatan Laporan | Rumah Masing- Masing | Ega Satria Harshavardana & Gathan Alfaraldy |
-| 7   | 7/12/2024 | Pembuatan Database | Rumah Masing- Masing | Arsyad Sadewa |
-| 8   | 7/12/2024 | Pembuatan Kodingan | Rumah Masing- Masing | Arsyad Sadewa & Muhammad Asyhadullah |
+| 1   | 7/12/2024 | ********| Arsyad Sadewa | Akan Segera di Update|
+| 2   | 7/12/2024 | ********| Bagas Prasetyo| Akan Segera di Update|
+| 3   | 7/12/2024 | ********| Ega Satria Harshavardana | Akan Segera di Update|
+| 4   | 7/12/2024 | ********|Gathan Alfaraldy | Akan Segera di Update|
+| 4   | 7/12/2024 | ********| Muhammad Alfarisi | Akan Segera di Update|
+| 4   | 7/12/2024 | ********| Muhammad Asyhadullah | Akan Segera di Update|
