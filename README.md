@@ -1,16 +1,8 @@
-PROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”
+\nPROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”
 
-Ketua Kelompok : Arsyad Sadewa
+**👨‍🏫 Nama Dosen: Niki Ratama, S.Kom., M.Kom** 
 
-Anggota 1: Bagas Prasetyo 
-
-Anggota 3: Ega Satria Harshavardana
-
-Anggota 4: Gathan Alfaraldy
-
-Anggota 5: Muhammad Alfarisi
-
-Anggota 6: Muhammad Asyhadullah
+**👥  Anggota Kelompok:**
 
 | No  | Tanggal Mulai| Nama Kegiatan | Anggota yang mengerjakan |Tanggal Selesai |
 | --- | --- | --- | --- | --- |
