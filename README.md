@@ -1,10 +1,15 @@
 PROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”
 
-Ketua Kelompok : Arsyad Sadewa 
+Ketua Kelompok : Arsyad Sadewa
+
 Anggota 1: Bagas Prasetyo 
+
 Anggota 3: Ega Satria Harshavardana
+
 Anggota 4: Gathan Alfaraldy
+
 Anggota 5: Muhammad Alfarisi
+
 Anggota 6: Muhammad Asyhadullah
 
 | No  | Tanggal | Nama Kegiatan | Tempat Lokasi | Anggota yang mengerjakan |
