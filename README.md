@@ -1,9 +1,9 @@
 #Notes
-
+---
 **Judul: PROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”**
 
 **👨‍🏫 Nama Dosen: Niki Ratama, S.Kom., M.Kom** 
-
+---
 **👥  Anggota Kelompok:**
 
 | No  | Tanggal Mulai| Nama Kegiatan | Anggota yang mengerjakan |Tanggal Selesai |
@@ -14,5 +14,5 @@
 | 4   | 7/12/2024 | ********| Gathan Alfaraldy | Akan Segera di Update|
 | 4   | 7/12/2024 | ********| Muhammad Alfarisi | Akan Segera di Update|
 | 4   | 7/12/2024 | ********| Muhammad Asyhadullah | Akan Segera di Update|
-
+---
 **© 2024 Kelompok 6 - UAS Projek - Universitas Pamulang**
