@@ -1,4 +1,4 @@
-\nPROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”
+PROJECT APLIKASI “Perancangan Sistem Informasi Pengelolaan ARSIP Berbasis Website Dengan Menggunakan Bahasa Pemrogaman Python”
 
 **👨‍🏫 Nama Dosen: Niki Ratama, S.Kom., M.Kom** 
 
