@@ -15,4 +15,4 @@
 | 4   | 7/12/2024 | ********| Muhammad Alfarisi | Akan Segera di Update|
 | 4   | 7/12/2024 | ********| Muhammad Asyhadullah | Akan Segera di Update|
 ---
-**© 2024 Kelompok 6 - UAS Projek - Universitas Pamulang**
+**© 2024 Kelompok 6 - Projek UAS - Universitas Pamulang**
