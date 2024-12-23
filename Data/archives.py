@@ -125,7 +125,7 @@ def tampilkan_arsip():
 def halaman_arsip():
     global role
     from Auth.account import Account
-    from mainmenu import menu
+    from menu import menu
 
     if role == "admin":
         print("\n--- Halaman Arsip Admin ---")

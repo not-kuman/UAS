@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import datetime
 from Auth.account import Account
-from mainmenu import menu
+from menu import menu
 
 def buat_tabel():
     """
